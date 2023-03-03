@@ -2,13 +2,13 @@
 # CLTV Prediction wtih BG-NBD ve Gamma-Gamma models
 ##############################################################
 
-# 1. Verinin Hazırlanması (Data Preperation)
-# 2. BG-NBD Modeli ile Expected Sales Forecasting
-# 3. Gamma-Gamma Modeli ile Expected Average Profit
-# 4. BG-NBD ve Gamma-Gamma Modeli ile CLTV'nin Hesaplanması
-# 5. CLTV'ye Göre Segmentlerin Oluşturulması
-# 6. Çalışmanın fonksiyonlaştırılması
-# 7. Sonuçların Veri Tabanına Gönderilmesi
+# 1. (Data Preperation)
+# 2. Expected Sales Forecasting with BG-NBD Model
+# 3. Expected Average Profit with Gamma-Gamma Modeli
+# 4. Calculation of CLTV with BG-NBD and Gamma-Gamma Model
+# 5. Creating Segments by CLTV
+# 6. Functionalization of work
+# 7. Submitting Results to Database
 
 # CLTV = (Customer_Value / Churn_Rate) x Profit_margin.
 # Customer_Value = Average_Order_Value * Purchase_Frequency
