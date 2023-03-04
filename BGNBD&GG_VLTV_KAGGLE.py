@@ -1,5 +1,5 @@
 ##############################################################
-# CLTV Prediction wtih BG-NBD ve Gamma-Gamma models
+# CLTV Prediction wtih BG-NBD and Gamma-Gamma models
 ##############################################################
 
 # 1. (Data Preperation)
